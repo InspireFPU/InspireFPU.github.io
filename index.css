@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(175, 97, 18);
+}
+
+hr{
+    width: 100%;
+    height: 3px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: linear-gradient(to right, #000000, #564e4e, #ccc);
+    border: 0 none;
+}
