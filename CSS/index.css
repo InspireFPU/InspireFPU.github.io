@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(93, 93, 93)
+}
+
+.links {
+    color: rgb(255, 255, 255);
+    background-color: black;
+    border: 0 none;
+    border-radius:5px;
+    text-decoration: none;
+}
+
+.img {
+    width: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid #000000;
+    border-radius: 10px;
+}
+
+.mainHR{
+    width: 75%;
+    height: 4px;
+    border-radius: 10px;
+    background-image: linear-gradient(to right, #000000, #564e4e, #ccc);
+    border: 0 none;
+}
+
+.subHR{
+    width: 50%;
+    height: 3px;
+    border: 0 none;
+    border-radius: 10px;
+    margin-left: 12.5%;
+    background-image: linear-gradient(to right, #000000, #564e4e, #ccc);
+}
+
+.mainHeader {
+    color: rgb(255, 255, 255); 
+    font-family: Abel;
+    text-align: center;
+}
+
+.centerTxt {
+    color: rgb(255, 255, 255);
+    font-family: Abel;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 75%;
+}
+
+.genTxt {
+    color: rgb(255, 255, 255);
+    font-family: Abel;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
