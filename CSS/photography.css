@@ -10,8 +10,25 @@ body {
     text-decoration: none;
 }
 
-.img {
+.imgL {
+    width: 17.6%;
+    display: block;
+    border: 3px solid #000000;
+    border-radius: 10px;
+    float:left;
+}
 
+.imgW {
+    width:8%;
+    display: block;
+    border: 3px solid #000000;
+    border-radius: 10px;
+    float:left;
+    margin-left: 5%;
+}
+
+.spacer{
+    margin-left: 12.5%;
 }
 
 .mainHR{
@@ -52,4 +69,9 @@ body {
     margin-left: auto;
     margin-right: auto;
     width: 75%;
+}
+
+a:hover {
+    background-color: white;
+    color: black;
 }

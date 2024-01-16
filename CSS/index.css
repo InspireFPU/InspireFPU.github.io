@@ -58,3 +58,8 @@ body {
     margin-right: auto;
     width: 75%;
 }
+
+a:hover {
+    background-color: white;
+    color: black;
+}
